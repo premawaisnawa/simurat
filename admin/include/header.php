@@ -17,7 +17,7 @@
 		<div class="row">
 			<div class="col-md-8">
 	<div class="text-left">
-		<h2> SIMURAT </h2>
+		<h2> SIMURAT  HAHA</h2>
 	</div></div>
 	<div class="col-md-4">
 	<div class="text-right">
